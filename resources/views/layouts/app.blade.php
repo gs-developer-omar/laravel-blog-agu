@@ -7,6 +7,7 @@
     <meta name="author" content="TheCodeHolic">
     <meta name="description" content="{{ $metaDescription }}">
 
+    <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
     <!-- Tailwind -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
     <style>
